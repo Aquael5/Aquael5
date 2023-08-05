@@ -7,4 +7,4 @@
 <!---
 Aquael5/Aquael5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-https://replit.com/@AqualogAsael(https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+https://replit.com/@AqualogAsael
