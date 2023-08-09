@@ -20,3 +20,6 @@ https://codepen.io/Aqualog-Asael
 </div>
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+<img align="center" alt="kalilinux"
+src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+</div><br/>
