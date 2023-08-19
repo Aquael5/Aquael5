@@ -7,8 +7,7 @@
 <!---
 Aquael5/Aquael5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-https://replit.com/@AqualogAsael
-https://codepen.io/Aqualog-Asael
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Aqua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aqua-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
