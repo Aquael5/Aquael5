@@ -24,11 +24,6 @@ src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kal
   <br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzaScslhrOtSm42wa53OhX5dsQCzO_HUQBQ&usqp=CAU">
  
-<br>
-<object width="425" height="350">
-<param name="movie" value="https://youtube.com/v/Xf5QTs2NLRc" />
-<embed src="https://youtube.com/v/Xf5QTs2NLRc" type="application/x-shockwave-flash" width="425" height="350" />
-</object>
 
 </body>
   </html>        
