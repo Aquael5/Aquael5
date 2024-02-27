@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 - 👋 Hi, I’m @Aquael5,programmer, ethical hacker, musician and military. Here I don't expose myself much with my work, but there will be times for better collaboration.
 - 👀 I’m interested in always in new research as tools in code and development of small applications.
 - 🌱 I’m currently learning ...
@@ -7,8 +9,7 @@
 <!---
 Aquael5/Aquael5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-<!DOCTYPE html>
-<html>
+
 <body>
 <div style="display: inline_block"><br>
   <img align="center" alt="Aqua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
