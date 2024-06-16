@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aquael5,programmer, ethical hacker, musician and military. Here I don't expose myself much with my work, but there will be times for better collaboration.
 - 👀 I’m interested in always in new research as tools in code and development of small applications.
-- 🌱 I’m currently learning blockchain.
+- 🌱 I’m currently learning blockchain e Solidity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfm-KVDBCwEB1tn9bz6kdX9i2x_1umntN2UDqaYOQQABJ_zlnGKnEIF5_&s=10">
